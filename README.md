@@ -15,4 +15,36 @@ The dataset used for this analysis is the "Service Provider E_commerce.xlsx"file
  ## Data Cleaning
  Steps taken before analysis:
 
- 1.
+ 1. Removal of duplicates
+ 2. Handled missing values with XLOOKUP
+ 3. Changed values to the appropriate format
+
+
+### Exploratory Data Analysis
+
+The data was explored to answer key questions such as:
+
+- What was the monthly sales trend?
+- Which categories and providers performed best?
+- What were the peak sales periods?
+- Are there opportunities for diversification?
+
+
+## Dashboard
+<img width="1316" height="551" alt="image" src="https://github.com/user-attachments/assets/16b89a41-3aa6-4e7f-8db4-ff4fa0ac0244" />
+
+
+## Findings
+- Total sales: ₦28.8M across 3,128 orders
+- Betting and Cable were the top performing categories
+- MBET and DSTV emerged as leading providers
+- Peak sales occurred in April, May, and September
+- Diversification opportunities exist in underperforming categories like Airlines and Utilities
+
+
+## Recommendations
+- Focus on strengthening partnerships with top providers while improving service for underperforming ones
+- Diversify revenue streams by promoting Internet and Airline categories, which showed growth potential
+- Leverage marketing campaigns during peak months to maximize revenue opportunities
+
+
