@@ -3,7 +3,7 @@
 ## Project Overview
 This project reviews the performance of an e-commerce business in Nigeria from April to September 2021 (Q2–Q3 2021).
 Over this period, the business generated ₦28.8M in revenue across 3,128 orders, with sales spread across five key categories: Airlines, Betting, Cable, Internet, and Utilities.
-The analysis highlights seasonal peaks in May and September, driven by increased betting activity, higher travel demand, and cable subscriptions.
+The analysis highlights seasonal peaks in May and September, driven by increased betting activity, higher travel demand, and entertainment subscriptions.
 
 ### Data Source
 The dataset used for this analysis is the "Service Provider E_commerce.xlsx"file[Service Provider E_commerce.xlsx](https://github.com/user-attachments/files/22247151/Service.Provider.E_commerce.xlsx)
@@ -49,7 +49,8 @@ The data was explored to answer key questions such as:
 - Review underperforming service providers (BEDC, IBEDC) for potential improvement or replacement.
 - Invest in stronger partnerships with Internet Providers (SWIFT, IPNX) to unlock growth.
 
-  Full Report: [ Click here to read detailed Insights & Recommendations] 
+## Full Report
+  Download Full Insights & Recommendations (PDF) 
   [Service Provider Report.pdf](https://github.com/user-attachments/files/22265374/Service.Provider.Report.pdf)
 
   
