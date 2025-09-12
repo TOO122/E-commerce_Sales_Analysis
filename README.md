@@ -50,7 +50,7 @@ The data was explored to answer key questions such as:
 - Invest in stronger partnerships with Internet Providers (SWIFT, IPNX) to unlock growth.
 
 ## Full Report
-  Download Full Insights & Recommendations (PDF) 
+  Click Here to Read Full Report (PDF) 
   [Service Provider Report.pdf](https://github.com/user-attachments/files/22265374/Service.Provider.Report.pdf)
 
   
